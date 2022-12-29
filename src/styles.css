@@ -1,0 +1,11 @@
+.hover:hover{
+  background-color: rgb(199, 199, 199) !important;
+}
+
+.ant-modal{
+  width: 300px !important
+}
+
+.warning{
+  border: 1px solid red !important;
+}
